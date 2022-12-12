@@ -482,7 +482,7 @@ SmartHRでは、OSSの公開管理にGitHubを使用します。そのため、O
 例外的に、セキュリティに関わる不具合報告に関しては、 `oss@smarthr.co.jp` へのメールで受け付けます。
 
 ```markdown
-SmartHR OSS プロダクトへのコントリビューションガイド
+SmartHR OSSプロダクトへのコントリビューションガイド
 ===
 
 SmartHRのOSSプロダクトは、一部の例外を除き、GitHub上ですべてのやり取りを完結させ、情報の公開と共有を心がけてください。また、SmartHRのOSSにコントリビュートした場合、SmartHR CODE OF CONDUCT に同意したとみなします。
